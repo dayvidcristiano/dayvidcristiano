@@ -12,6 +12,6 @@
 <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></div></br>
 
-Estudante de Análise e Desenvolvimento de Sistemas na CESAR School, apaixonado por tecnologia, inovação e inclusão.
-Interessado em desenvolvimento web e em criar soluções criativas que gerem impacto real.
-Sempre em busca de aprendizado contínuo e de contribuir com projetos desafiadores e colaborativos.
+- Técnico em Informática para Internet pelo IFPE e atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS) na CESAR School.
+- Interessado em desenvolvimento web e em criar soluções criativas que gerem impacto real.
+- Sempre em busca de aprendizado contínuo e de contribuir com projetos desafiadores e colaborativos.
